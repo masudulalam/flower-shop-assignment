@@ -94,3 +94,8 @@ header {
     padding-left: 240px;
     padding-right: 240px;
 }
+
+/* Get the latest Deals section styles */
+.get-the-deals-section{
+    background-image: url(../styles/FlowerAsset/Rectangle\ 4.png);
+}
